@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\01_포인터">
+      <UniqueIdentifier>{93d35000-b11e-40cc-8d64-e6aee1b7e2a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02_포인터와배열">
+      <UniqueIdentifier>{2dd59c83-d1be-434d-b069-2757721b56a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03_포인터매개변수">
+      <UniqueIdentifier>{71216914-8c20-417c-b379-94129980444e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04_구조체포인터">
+      <UniqueIdentifier>{38df9d65-e114-4aa3-aca5-fd89f366b9a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05_동적할당">
+      <UniqueIdentifier>{e58aaf17-cb3d-48b3-8d37-4f6156ceaed4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06_다중포인터">
+      <UniqueIdentifier>{c6e81e4c-7cce-4294-9bd1-d5e1e6cdef05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\07_함수포인터">
+      <UniqueIdentifier>{c5810d52-ad91-4fb7-b022-79704e95024a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01_포인터.c">
+      <Filter>소스 파일\01_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="02_포인터.c">
+      <Filter>소스 파일\01_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="03_포인터.c">
+      <Filter>소스 파일\01_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="04_포인터.c">
+      <Filter>소스 파일\01_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="01_포인터와배열.c">
+      <Filter>소스 파일\02_포인터와배열</Filter>
+    </ClCompile>
+    <ClCompile Include="01_포인터매개변수.c">
+      <Filter>소스 파일\03_포인터매개변수</Filter>
+    </ClCompile>
+    <ClCompile Include="02_포인터매개변수.c">
+      <Filter>소스 파일\03_포인터매개변수</Filter>
+    </ClCompile>
+    <ClCompile Include="03_포인터매개변수.c">
+      <Filter>소스 파일\03_포인터매개변수</Filter>
+    </ClCompile>
+    <ClCompile Include="01_구조체포인터.c">
+      <Filter>소스 파일\04_구조체포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="02_구조체포인터.c">
+      <Filter>소스 파일\04_구조체포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="01_동적할당.c">
+      <Filter>소스 파일\05_동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="02_동적할당.c">
+      <Filter>소스 파일\05_동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="03_동적할당.c">
+      <Filter>소스 파일\05_동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="04_동적할당.c">
+      <Filter>소스 파일\05_동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="01_다중포인터.c">
+      <Filter>소스 파일\06_다중포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="02_다중포인터.c">
+      <Filter>소스 파일\06_다중포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="01_함수포인터.c">
+      <Filter>소스 파일\07_함수포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="02_함수포인터.c">
+      <Filter>소스 파일\07_함수포인터</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
